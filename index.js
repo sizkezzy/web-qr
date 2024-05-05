@@ -21,13 +21,13 @@ const MESSAGE = process.env.MESSAGE ||  `
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║
 ║ Github Repo: https://github.com/Whizmburu/cling-Md
-║ Scan: https://cling-md.onrender.com
+║ Scan: https://cling-md-katie.onrender.com
 ║ Contact owner: +254754783683
 ║ Note :Don't provide your SESSION_ID to
 ║ anyone otherwise that can access chats
 ╚════════════════════════╝
 ╔════◇
-║ 『  YOU CANN JOIN HERE FOR MORE』
+║ 『  YOU CAN JOIN HERE FOR MORE』
 ║ Private coomunity✨✨✨✨.
 ╚════════════════════════╝
 ╔═════◇
